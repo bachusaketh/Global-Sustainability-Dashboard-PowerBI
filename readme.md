@@ -48,7 +48,7 @@ The final interactive dashboard was designed to provide at-a-glance insights. It
 
 Here are some screenshots of the final report.
 
-![Screenshot of your dashboard's main page](URL_to_your_screenshot.png)
+![Screenshot of your dashboard's main page](<img width="1916" height="1013" alt="Image" src="https://github.com/user-attachments/assets/44f12b96-84bb-45d0-b791-10ae20966a0c" />)
 ![Screenshot showing a specific filter or chart](URL_to_your_screenshot_2.png)
 
 **View the live, interactive report here:** [Link to your published report]
